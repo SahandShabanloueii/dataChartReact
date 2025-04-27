@@ -1,0 +1,121 @@
+Month,Region,Product,Sales,Profit
+January,North,Laptop,118000,23600
+January,South,Laptop,87000,17400
+January,East,Laptop,123000,24600
+January,West,Laptop,99000,19800
+February,North,Laptop,112000,22400
+February,South,Laptop,91000,18200
+February,East,Laptop,119000,23800
+February,West,Laptop,95000,19000
+March,North,Laptop,105000,21000
+March,South,Laptop,95000,19000
+March,East,Laptop,110000,22000
+March,West,Laptop,97000,19400
+April,North,Laptop,98000,19600
+April,South,Laptop,99000,19800
+April,East,Laptop,102000,20400
+April,West,Laptop,93000,18600
+May,North,Laptop,101000,20200
+May,South,Laptop,97000,19400
+May,East,Laptop,108000,21600
+May,West,Laptop,95000,19000
+June,North,Laptop,130000,26000
+June,South,Laptop,99000,19800
+June,East,Laptop,135000,27000
+June,West,Laptop,105000,21000
+January,North,Phone,78000,15600
+January,South,Phone,72000,14400
+January,East,Phone,83000,16600
+January,West,Phone,80000,16000
+February,North,Phone,79000,15800
+February,South,Phone,73000,14600
+February,East,Phone,85000,17000
+February,West,Phone,81000,16200
+March,North,Phone,80000,16000
+March,South,Phone,74000,14800
+March,East,Phone,87000,17400
+March,West,Phone,82000,16400
+April,North,Phone,81000,16200
+April,South,Phone,75000,15000
+April,East,Phone,88000,17600
+April,West,Phone,83000,16600
+May,North,Phone,95000,19000
+May,South,Phone,90000,18000
+May,East,Phone,110000,22000
+May,West,Phone,95000,19000
+June,North,Phone,82000,16400
+June,South,Phone,76000,15200
+June,East,Phone,90000,18000
+June,West,Phone,85000,17000
+January,North,Tablet,54000,10800
+January,South,Tablet,50000,10000
+January,East,Tablet,60000,12000
+January,West,Tablet,57000,11400
+February,North,Tablet,56000,11200
+February,South,Tablet,52000,10400
+February,East,Tablet,61000,12200
+February,West,Tablet,59000,11800
+March,North,Tablet,67000,13400
+March,South,Tablet,60000,12000
+March,East,Tablet,72000,14400
+March,West,Tablet,65000,13000
+April,North,Tablet,62000,12400
+April,South,Tablet,57000,11400
+April,East,Tablet,69000,13800
+April,West,Tablet,63000,12600
+May,North,Tablet,61000,12200
+May,South,Tablet,56000,11200
+May,East,Tablet,70000,14000
+May,West,Tablet,62000,12400
+June,North,Tablet,75000,15000
+June,South,Tablet,67000,13400
+June,East,Tablet,80000,16000
+June,West,Tablet,72000,14400
+January,North,Headphones,42000,8400
+January,South,Headphones,39000,7800
+January,East,Headphones,47000,9400
+January,West,Headphones,41000,8200
+February,North,Headphones,43000,8600
+February,South,Headphones,40000,8000
+February,East,Headphones,48000,9600
+February,West,Headphones,42000,8400
+March,North,Headphones,41000,8200
+March,South,Headphones,38000,7600
+March,East,Headphones,46000,9200
+March,West,Headphones,40000,8000
+April,North,Headphones,32000,6400
+April,South,Headphones,29000,5800
+April,East,Headphones,35000,7000
+April,West,Headphones,31000,6200
+May,North,Headphones,37000,7400
+May,South,Headphones,34000,6800
+May,East,Headphones,39000,7800
+May,West,Headphones,36000,7200
+June,North,Headphones,48000,9600
+June,South,Headphones,45000,9000
+June,East,Headphones,52000,10400
+June,West,Headphones,47000,9400
+January,North,Smart Watch,25000,5000
+January,South,Smart Watch,22000,4400
+January,East,Smart Watch,27000,5400
+January,West,Smart Watch,26000,5200
+February,North,Smart Watch,26000,5200
+February,South,Smart Watch,23000,4600
+February,East,Smart Watch,28000,5600
+February,West,Smart Watch,27000,5400
+March,North,Smart Watch,28000,5600
+March,South,Smart Watch,25000,5000
+March,East,Smart Watch,30000,6000
+March,West,Smart Watch,29000,5800
+April,North,Smart Watch,27000,5400
+April,South,Smart Watch,24000,4800
+April,East,Smart Watch,29000,5800
+April,West,Smart Watch,28000,5600
+May,North,Smart Watch,26000,5200
+May,South,Smart Watch,23000,4600
+May,East,Smart Watch,27000,5400
+May,West,Smart Watch,26000,5200
+June,North,Smart Watch,32000,6400
+June,South,Smart Watch,29000,5800
+June,East,Smart Watch,35000,7000
+June,West,Smart Watch,33000,6600 
